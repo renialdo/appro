@@ -1,0 +1,19 @@
+body::before {
+    display: block;
+    content: '';
+    height: 60px;
+  }
+ 
+ 
+  .ngjyra{color: gray;
+
+    
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+#bardh{
+    color: azure;
+}
